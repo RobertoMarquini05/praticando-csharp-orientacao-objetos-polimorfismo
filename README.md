@@ -66,7 +66,7 @@ O projeto inclui exemplos de:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/RobertoMarquini05/praticando-csharp-orientacao-objetos-polimorfismo
 ```
 
 2. Abra no Visual Studio ou VS Code e execute os exemplos de cada exercício.
